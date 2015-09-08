@@ -1,0 +1,15 @@
+{
+  "name": "bitstarter-ssjs-orders",
+  "version": "0.0.1",
+  "description": "Simple server-side JS order processing",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.12.7",
+    "npm": "2.11.3"
+  }
+}
